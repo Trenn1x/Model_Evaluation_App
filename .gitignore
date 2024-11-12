@@ -1,0 +1,11 @@
+# Ignore virtual environments
+/Users/ThaVERDi/ai_demo_env/
+/Users/ThaVERDi/ai_demo_env_310/
+
+# Ignore compiled files and cache
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
